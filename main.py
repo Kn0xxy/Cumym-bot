@@ -14,7 +14,7 @@ for i in range(len(cogs)):
 keep_alive()
 try:
     client.run(
-        "OTkwNDM2ODA0NTMwNDEzNTk4.G50qYM.su59g2y641czS2hOA7pLgEOKoLL8Du1E3x5oW4"
+        ""
     )
 except:
     os.system("kill 1")
